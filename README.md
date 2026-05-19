@@ -1,21 +1,33 @@
 <!--
   GitHub Profile README — Reza Rezaeian (@SolVibe)
-  Repo: SolVibe/SolVibe  ·  file: README.md  ·  branch: main
+  Repo: SolVibe/SolVibe · file: README.md · branch: main
+
+  Design note: this README uses ONLY image services that render
+  reliably through GitHub's image proxy — shields.io, skillicons.dev,
+  github-readme-activity-graph, github-profile-trophy. Flaky banner /
+  stat-card generators (capsule-render, github-readme-stats,
+  streak-stats, typing-svg) were intentionally removed so nothing
+  shows up broken.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12,18,20,24&height=240&section=header&text=Reza%20Rezaeian&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Blockchain%20Developer%20%E2%80%94%20Web3%20%26%20Smart%20Contract%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+<h1 align="center">👋 &nbsp;Hi, I'm Reza Rezaeian</h1>
+
+<h3 align="center">🔗 &nbsp;Blockchain Developer &nbsp;·&nbsp; Web3 &amp; Smart Contract Engineer</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=9945FF&center=true&vCenter=true&width=680&height=45&lines=Building+on+Solana+with+Rust+%26+Anchor;Smart+Contracts+%E2%80%A2+NFTs+%E2%80%A2+DAOs+%E2%80%A2+DeFi;Web3+Lead+Developer+%40+BeJOE+Studio;Turning+ideas+into+on-chain+protocols" alt="Typing SVG" />
-  </a>
+  Building on <b>Solana</b> with <b>Rust</b> &amp; <b>Anchor</b><br/>
+  <sub>Smart Contracts &nbsp;·&nbsp; NFTs &nbsp;·&nbsp; DAOs &nbsp;·&nbsp; DeFi &nbsp;·&nbsp; On-chain Games</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SolVibe&style=flat-square&color=9945FF&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/SolVibe?style=flat-square&color=14F195&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/badge/Solana-Developer-9945FF?style=flat-square&logo=solana&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Open%20to-Web3%20Work-14F195?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Solana-Developer-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Web3-Engineer-14F195?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📍_Istanbul-Turkey-9945FF?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SolVibe&style=for-the-badge&color=9945FF&labelColor=0d1117&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/SolVibe?style=for-the-badge&color=14F195&labelColor=0d1117&logo=github" />
 </p>
 
 <p align="center">
@@ -24,14 +36,14 @@
   <a href="mailto:reza3032@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+---
 
-## &nbsp;🧑‍🚀&nbsp; About Me
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## 🧑‍🚀 &nbsp;About Me
 
 I'm a passionate **Web3 & Smart Contract Developer** specializing in the
-**Solana** blockchain.
+**Solana** blockchain. With a deep understanding of blockchain technology
+and extensive experience building decentralized applications, I've
+dedicated my career to advancing the Web3 ecosystem.
 
 ```rust
 let reza = Developer {
@@ -45,17 +57,14 @@ let reza = Developer {
 };
 ```
 
-- 🔭 &nbsp;Leading Web3 projects across NFT, token, DAO, staking & swap tech
+- 🔭 &nbsp;Leading Web3 projects across NFT, token, DAO, staking & swap technologies
 - ⚓ &nbsp;Deep on **Solana** — Rust programs, the **Anchor** framework, Metaplex
 - 🧩 &nbsp;From DeFi swaps and DAOs to on-chain games and generative NFTs
-- 🌍 &nbsp;Based in **Istanbul, Turkey**
 - 📫 &nbsp;Reach me — **reza3032@gmail.com**
 
-<br clear="right" />
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-
-## &nbsp;🛠️&nbsp; Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,typescript,javascript,nodejs,react,nextjs,git,github,vscode&theme=dark" />
@@ -69,37 +78,19 @@ let reza = Developer {
   <img src="https://img.shields.io/badge/SPL_Token-9945FF?style=for-the-badge&logoColor=white" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Solana&nbsp;Contracts</b></td>
-    <td><img src="https://geps.dev/progress/90?successColor=9945FF" width="220" /></td>
-    <td align="center"><b>90%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Anchor&nbsp;Framework</b></td>
-    <td><img src="https://geps.dev/progress/90?successColor=14F195" width="220" /></td>
-    <td align="center"><b>90%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>JavaScript</b></td>
-    <td><img src="https://geps.dev/progress/90?successColor=9945FF" width="220" /></td>
-    <td align="center"><b>90%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Web3.js</b></td>
-    <td><img src="https://geps.dev/progress/90?successColor=14F195" width="220" /></td>
-    <td align="center"><b>90%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Rust</b></td>
-    <td><img src="https://geps.dev/progress/80?successColor=9945FF" width="220" /></td>
-    <td align="center"><b>80%</b></td>
-  </tr>
-</table>
+**Proficiency**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+```text
+Solana Smart Contracts   █████████░   90%
+Anchor Framework         █████████░   90%
+JavaScript               █████████░   90%
+Web3.js                  █████████░   90%
+Rust                     ████████░░   80%
+```
 
-## &nbsp;🚀&nbsp; Featured Projects
+---
+
+## 🚀 &nbsp;Featured Projects
 
 <table>
   <tr>
@@ -109,16 +100,16 @@ let reza = Developer {
 NFT ↔ Token hybrid swap protocol. Create, add & remove
 pool liquidity; swap NFTs directly for tokens.
 
-`Solana` `Anchor` `DeFi`
+`Solana` &nbsp;`Anchor` &nbsp;`DeFi`
 
    </td>
     <td width="50%" valign="top">
 
 ### 🎮 Elevens
 On-chain betting game. User accounts, bet-based
-matchmaking, and automated payouts to winners.
+matchmaking, automated payouts to winners.
 
-`Solana` `Anchor` `GameFi`
+`Solana` &nbsp;`Anchor` &nbsp;`GameFi`
 
    </td>
   </tr>
@@ -129,7 +120,7 @@ matchmaking, and automated payouts to winners.
 Stake-to-earn engine. Collection reward pools,
 vault funding, claim / stake / unstake methods.
 
-`Solana` `Staking` `NFT`
+`Solana` &nbsp;`Staking` &nbsp;`NFT`
 
    </td>
     <td width="50%" valign="top">
@@ -138,7 +129,7 @@ vault funding, claim / stake / unstake methods.
 Refactored Realm DAO contract. Proposal creation,
 voting-power-weighted votes, on-chain execution.
 
-`Solana` `DAO` `Governance`
+`Solana` &nbsp;`DAO` &nbsp;`Governance`
 
    </td>
   </tr>
@@ -149,7 +140,7 @@ voting-power-weighted votes, on-chain execution.
 Collection launch tooling. Candy-machine phases,
 whitelist allocations, phase-based minting.
 
-`Metaplex` `Candy Machine` `NFT`
+`Metaplex` &nbsp;`Candy Machine`
 
    </td>
     <td width="50%" valign="top">
@@ -158,7 +149,7 @@ whitelist allocations, phase-based minting.
 Generative art pipeline. Rarity-weighted layer
 composition + collection metadata generation.
 
-`NFT` `Generative` `Metadata`
+`NFT` &nbsp;`Generative`
 
    </td>
   </tr>
@@ -169,7 +160,7 @@ composition + collection metadata generation.
 Airdrop-farming toolkit interacting with
 high-potential airdrop projects.
 
-`Web3` `Automation`
+`Web3` &nbsp;`Automation`
 
    </td>
     <td width="50%" valign="top">
@@ -178,7 +169,7 @@ high-potential airdrop projects.
 Mint site for the Bend Capital collection
 with whitelist-phased minting.
 
-`Metaplex` `Mint Site` `NFT`
+`Metaplex` &nbsp;`Mint Site`
 
    </td>
   </tr>
@@ -190,17 +181,17 @@ End-to-end Web3 product — token ↔ NFT hybrid swap with a retire token,
 phased whitelist mint, NFT staking with reward tokens, and
 **Jupiter-SDK**-powered token swaps. The full lifecycle in one protocol.
 
-`Solana` `Anchor` `DeFi` `Staking` `Jupiter SDK`
+`Solana` &nbsp;`Anchor` &nbsp;`DeFi` &nbsp;`Staking` &nbsp;`Jupiter SDK`
 
    </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+---
 
-## &nbsp;💼&nbsp; Experience
+## 💼 &nbsp;Experience
 
-```
+```text
 2022 ──●  Web3 / Blockchain Lead Developer  ·  Synthetic Solutions (BeJOE Studio)
         │  Lead Web3 projects: NFT, token, DAO, staking, wallet & swap tech
         │
@@ -211,23 +202,14 @@ phased whitelist mint, NFT staking with reward tokens, and
            Lead blockchain dev — trade processing & wallet technology
 ```
 
-## &nbsp;🎓&nbsp; Education
+## 🎓 &nbsp;Education
 
 - 🎓 &nbsp;**M.Sc. Mechanical Engineering** — Malek Ashtar University · `2014 – 2017`
 - 🎓 &nbsp;**B.Sc. Mechanical Engineering** — Tabriz University · `2010 – 2014`
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+---
 
-## &nbsp;📊&nbsp; GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SolVibe&show_icons=true&hide_border=true&title_color=9945FF&icon_color=14F195&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolVibe&layout=compact&hide_border=true&title_color=9945FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SolVibe&hide_border=true&background=0d1117&ring=9945FF&fire=14F195&currStreakLabel=9945FF&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=14F195&dayLabels=8b949e&stroke=9945FF" />
-</p>
+## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolVibe&bg_color=0d1117&color=14F195&line=9945FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
@@ -237,10 +219,8 @@ phased whitelist mint, NFT staking with reward tokens, and
   <img src="https://github-profile-trophy.vercel.app/?username=SolVibe&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+---
 
 <p align="center">
   <i>⚡ "Building the decentralized future, one smart contract at a time."</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12,18,20,24&height=140&section=footer" width="100%" />
