@@ -202,11 +202,6 @@ phased whitelist mint, NFT staking with reward tokens, and
            Lead blockchain dev — trade processing & wallet technology
 ```
 
-## 🎓 &nbsp;Education
-
-- 🎓 &nbsp;**M.Sc. Mechanical Engineering** — Malek Ashtar University · `2014 – 2017`
-- 🎓 &nbsp;**B.Sc. Mechanical Engineering** — Tabriz University · `2010 – 2014`
-
 ---
 
 ## 📊 &nbsp;GitHub Analytics
