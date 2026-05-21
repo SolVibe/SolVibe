@@ -10,7 +10,7 @@
   shows up broken.
 -->
 
-<h1 align="center">👋 &nbsp;Hi, I'm Reza Rezaeian</h1>
+<h1 align="center">👋 &nbsp;Hi, I'm Reza </h1>
 
 <h3 align="center">🔗 &nbsp;Blockchain Developer &nbsp;·&nbsp; Web3 &amp; Smart Contract Engineer</h3>
 
