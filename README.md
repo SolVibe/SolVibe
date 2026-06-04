@@ -5,7 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=200&section=header&text=Reza%20Rezaeian&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Blockchain%20%26%20AI%20Engineer%20%E2%80%94%20Solana%20%C2%B7%20Ethereum%20%C2%B7%20LLMs&descAlignY=58&descSize=18&reversal=false" width="100%" alt="Reza Rezaeian — Blockchain & AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=140&section=header" width="100%" alt="banner"/>
+
+# 👋 &nbsp; Reza Rezaeian
+
+### 🔗 &nbsp; Blockchain &amp; AI Engineer &nbsp;·&nbsp; Solana &nbsp;·&nbsp; Ethereum &nbsp;·&nbsp; LLMs
 
 <a href="https://github.com/SolVibe">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14F195&center=true&vCenter=true&width=680&lines=Blockchain+Developer+%C2%B7+Web3+%26+Smart+Contract+Engineer;Solana+%2F+Rust+%2F+Anchor++%7C++Ethereum+%2F+Solidity;AI+Full-Stack+%E2%80%94+Claude+%2B+MCP+%2B+LLM+Apps;6%2B+Years+Shipping+Production+Web3+%26+AI" alt="Typing SVG"/>
