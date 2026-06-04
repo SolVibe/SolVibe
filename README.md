@@ -1,115 +1,134 @@
 <!--
   GitHub Profile README — Reza Rezaeian (@SolVibe)
-  Blockchain & AI Engineer · Solana · Ethereum · LLMs (Claude / MCP)
+  Repo: SolVibe/SolVibe · file: README.md · branch: main
+  Animated visuals (capsule-render, typing-svg, skillicons, github-readme-stats,
+  streak-stats, activity-graph, profile-trophy) are intentionally included.
 -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=210&section=header&text=Reza%20Rezaeian&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Blockchain%20%26%20AI%20Engineer%20%C2%B7%20Solana%20%C2%B7%20Ethereum%20%C2%B7%20LLMs&descAlignY=56&descSize=20" width="100%" alt="header"/>
-
 <a href="https://github.com/SolVibe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14F195&center=true&vCenter=true&width=680&lines=Blockchain+Developer+%C2%B7+Web3+%26+Smart+Contract+Engineer;Solana+%2F+Rust+%2F+Anchor++%7C++Ethereum+%2F+Solidity;AI+Full-Stack+%E2%80%94+Claude+%2B+MCP+%2B+LLM+Apps;6%2B+Years+Shipping+Production+Web3+%26+AI" alt="Typing SVG"/>
+  <img width="100%" alt="Reza Rezaeian — Blockchain & AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=210&section=header&text=Reza%20Rezaeian&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Blockchain%20%26%20AI%20Engineer%20%E2%80%A2%20Web3%20on%20Solana%20%26%20Ethereum&descSize=18&descAlignY=58" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SolVibe&style=for-the-badge&color=9945FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/SolVibe?style=for-the-badge&color=14F195&labelColor=0d1117&logo=github"/>
-<img src="https://img.shields.io/badge/6%2B_Years-Web3_%26_AI-9945FF?style=for-the-badge&labelColor=0d1117"/>
-
+<div align="center">
+  <a href="https://github.com/SolVibe">
+    <img alt="what I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=9945FF&center=true&vCenter=true&width=760&lines=Web3+%26+Smart-Contract+Engineer;Solana+%E2%80%A2+Rust+%E2%80%A2+Anchor+%E2%80%A2+Solidity;AI+Full-Stack+%E2%80%A2+LLM+%E2%80%A2+MCP+%E2%80%A2+Agents;6%2B+years+shipping+production+dApps" />
+  </a>
 </div>
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> &nbsp;About Me
-
-- 🔗 &nbsp;**Blockchain & Web3 engineer with 6+ years** shipping production smart contracts and dApps
-- ⚡ &nbsp;Deep on **Solana** (Rust · Anchor) — auctions, DeFi, NFTs, DAOs, on-chain games — and **Ethereum / EVM / L2** (Solidity · Hardhat · Linea · Polygon)
-- 🤖 &nbsp;**AI full-stack** — LLM chat & inference platforms, AI assistants and agentic automation; I build with **Claude**, the **Anthropic SDK** and **MCP (Model Context Protocol)**
-- 🧩 &nbsp;End-to-end ownership: **smart contract → backend API (NestJS / FastAPI) → frontend (Next.js / React)**
-- 🏗️ &nbsp;**30+ products** shipped across 8 product studios · **20+ on-chain programs**
-- 🌍 &nbsp;Based in **Istanbul** · open to remote
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/reza-r-3020b4b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/reza3032r"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:reza3032@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" />
+  <img alt="Web3" src="https://img.shields.io/badge/Web3-14F195?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img alt="AI Full-Stack" src="https://img.shields.io/badge/AI%20Full--Stack-9945FF?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img alt="Istanbul" src="https://img.shields.io/badge/%F0%9F%93%8D%20Istanbul-Turkey-14F195?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<div align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=SolVibe&style=for-the-badge&color=9945FF&labelColor=0d1117&label=PROFILE+VIEWS" />
+  <img alt="followers" src="https://img.shields.io/github/followers/SolVibe?style=for-the-badge&color=14F195&labelColor=0d1117&logo=github" />
 </div>
 
 ---
 
-## 🧰 &nbsp;Tech Stack
+### 👋 &nbsp;About Me
+
+```ts
+const reza = {
+  role:       "Blockchain Developer · AI Full-Stack Engineer",
+  experience: "6+ years shipping production dApps",
+  chains:     ["Solana", "Ethereum / EVM", "L2 (Linea · Polygon)"],
+  contracts:  ["Rust", "Anchor", "Solidity", "Hardhat"],
+  ai:         ["LLM apps", "FastAPI inference", "Claude · Anthropic SDK", "MCP / agents"],
+  building:   ["DeFi", "NFTs", "DAOs", "on-chain games", "bridges", "trading bots"],
+  shipped:    "30+ products across 8 product studios",
+};
+```
+
+🔗 &nbsp;Deep on **Solana** (Rust · Anchor) and **Ethereum / EVM & L2** (Solidity · Hardhat).
+🤖 &nbsp;Building **AI full-stack** products — LLM chat & inference, AI assistants, agentic **MCP** tooling.
+🧩 &nbsp;Smart contracts · DeFi · NFTs · DAOs · on-chain games · cross-chain bridges · automation.
+🚀 &nbsp;Lead dev owning products end to end — from on-chain program to backend API to frontend UI.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/reza-r-3020b4b8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/reza3032r"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:reza3032@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**⛓️ Blockchain & Web3**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=solana,rust,solidity,ts" />
-&nbsp;
-<img src="https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metaplex-14F195?style=for-the-badge&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/web3.js-242424?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=0d1117"/>
+<img alt="languages" src="https://skillicons.dev/icons?i=rust,solidity,ts,js,python,go,cpp&perline=8" />
 
-**🤖 AI / LLM**
+**Web3 &amp; Smart Contracts**
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic_SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP_·_Model_Context_Protocol-9945FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+<img alt="Anchor" src="https://img.shields.io/badge/Anchor-313244?style=flat-square&logoColor=white" />
+<img alt="Metaplex" src="https://img.shields.io/badge/Metaplex-E4405F?style=flat-square&logoColor=white" />
+<img alt="web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+<img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black" />
+<img alt="Jupiter" src="https://img.shields.io/badge/Jupiter-14F195?style=flat-square&logoColor=black" />
 
-**🖥️ Backend & Frontend**
+**Frameworks &amp; Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,nextjs,react,tailwind" />
+<img alt="frameworks" src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,fastapi,django,tailwind,postgres,mongodb,redis,docker,nginx,git,linux&perline=14" />
 
-**🗄️ Data & Infra**
+**AI &amp; LLM**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,prisma,nginx,git,vercel" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="Anthropic" src="https://img.shields.io/badge/Anthropic%20SDK-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-9945FF?style=flat-square&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 &nbsp;What I Build
+### 🧩 &nbsp;What I Build
 
 | Domain | Highlights |
-| :--- | :--- |
-| **Solana Programs** (Rust/Anchor) | SolBids auction protocol · NFT↔token hybrid swaps · staking vaults · burn-to-WL mints · on-chain games |
-| **Ethereum / EVM / L2** | Cross-chain NFT + Solana↔ETH bridge · Solidity contracts · Polygon games · Linea L2 SDK |
-| **AI & LLM** | LLM chat + FastAPI inference · AI assistants · Claude / MCP agent & tool-use workflows |
-| **DeFi · NFT** | Marketplaces · DAO governance · Candy-Machine mints · generative-art tooling |
-| **DePIN · Bots** | Grass/Wynd DePIN · airdrop-farming platforms · Polymarket & macro-arb trading bots |
-| **Full-Stack SaaS** | Healthcare/clinical SaaS · crypto exchanges · wallets & payment microservices |
+| --- | --- |
+| **Solana · Rust / Anchor** | SolBids auction protocol (SPL · Token-2022 · pNFT · Core) · NFT↔token hybrid swaps · staking vaults · on-chain games |
+| **Ethereum · EVM / L2** | Solidity NFT contracts · Solana↔Ethereum bridge · Polygon game contract · Linea L2 SDK |
+| **AI &amp; LLM** | RadiGenius LLM chat (Django + FastAPI inference) · Kabin AI Assistant · QuizGen · Claude / MCP agent tooling |
+| **DeFi · NFT** | Marketplaces · DAO governance · Candy-Machine mints · generative NFT tooling |
+| **DePIN · Bots** | Grass / Wynd DePIN · airdrop platforms · Polymarket & macro-arbitrage trading bots |
+| **Full-Stack SaaS** | Clinical/health SaaS · crypto exchanges · wallets & payment microservices |
 
 ---
 
-## 📊 &nbsp;Languages & Activity
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
+  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=SolVibe&show_icons=true&hide_border=true&title_color=9945FF&icon_color=14F195&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolVibe&layout=compact&hide_border=true&langs_count=8&title_color=9945FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-<img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<div align="center">
+  <img alt="streak" src="https://streak-stats.demolab.com?user=SolVibe&hide_border=true&background=0d1117&stroke=9945FF&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
 
-<br/><br/>
-
-<img width="62%" src="https://streak-stats.demolab.com?user=SolVibe&hide_border=true&background=0d1117&stroke=9945FF&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolVibe&hide_border=true&bg_color=0d1117&color=14F195&line=9945FF&point=ffffff&area=true&area_color=9945FF" width="98%" />
-
+<div align="center">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=SolVibe&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 </div>
 
 ---
 
+### 📈 &nbsp;Contribution Graph
+
+<img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SolVibe&bg_color=0d1117&color=14F195&line=9945FF&point=ffffff&area=true&hide_border=true" />
+
+---
+
 <div align="center">
-
-> _"Building the on-chain and intelligent web — one contract, one model, one product at a time."_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,100:9945FF&height=120&section=footer" width="100%" alt="footer"/>
-
+  <i>Building the decentralized &amp; intelligent web — one contract, one model at a time.</i>
 </div>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,100:9945FF&height=120&section=footer" />
