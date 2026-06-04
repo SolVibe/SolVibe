@@ -104,24 +104,11 @@ const reza = {
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=SolVibe&show_icons=true&hide_border=true&title_color=9945FF&icon_color=14F195&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="170" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolVibe&layout=compact&hide_border=true&langs_count=8&title_color=9945FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+### 🔥 &nbsp;Activity &amp; Streak
 
 <div align="center">
   <img alt="streak" src="https://streak-stats.demolab.com?user=SolVibe&hide_border=true&background=0d1117&stroke=9945FF&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
-
-<div align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=SolVibe&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
-</div>
-
----
-
-### 📈 &nbsp;Contribution Graph
 
 <img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SolVibe&bg_color=0d1117&color=14F195&line=9945FF&point=ffffff&area=true&hide_border=true" />
 
