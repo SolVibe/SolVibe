@@ -18,8 +18,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=SolVibe&style=for-the-badge&color=9945FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/SolVibe?style=for-the-badge&color=14F195&labelColor=0d1117&logo=github"/>
 <img src="https://img.shields.io/badge/6%2B_Years-Web3_%26_AI-9945FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Istanbul-Open_to_Remote-14F195?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
