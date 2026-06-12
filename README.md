@@ -5,9 +5,9 @@
   streak-stats, activity-graph, profile-trophy) are intentionally included.
 -->
 
-<a href="https://github.com/SolVibe">
+<!-- <a href="https://github.com/SolVibe">
   <img width="100%" alt="Reza Rezaeian — Blockchain · Full-Stack + AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=210&section=header&text=Reza%20Rezaeian&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Blockchain%20%E2%80%A2%20Full-Stack%20%2B%20AI%20%E2%80%A2%20Web3%20on%20Solana%20%26%20Ethereum&descSize=18&descAlignY=58" />
-</a>
+</a> -->
 
 <div align="center">
   <a href="https://github.com/SolVibe">
