@@ -44,7 +44,7 @@ const reza = {
 };
 ```
 
-🔗 &nbsp;Deep on **Solana** (Rust · Anchor) and **Ethereum / EVM & L2** (Solidity · Hardhat).
+🔗 &nbsp;Deep on **Solana** (Rust · Anchor) and **Ethereum / EVM & L2** (Solidity · Hardhat).\
 🤖 &nbsp;Building **AI full-stack** products — LLM chat & inference, AI assistants, agentic **MCP** tooling.
 🧩 &nbsp;Smart contracts · DeFi · NFTs · DAOs · on-chain games · cross-chain bridges · automation.
 🚀 &nbsp;Lead dev owning products end to end — from on-chain program to backend API to frontend UI.
