@@ -45,9 +45,9 @@ const reza = {
 ```
 
 🔗 &nbsp;Deep on **Solana** (Rust · Anchor) and **Ethereum / EVM & L2** (Solidity · Hardhat).\
-🤖 &nbsp;Building **AI full-stack** products — LLM chat & inference, AI assistants, agentic **MCP** tooling.
-🧩 &nbsp;Smart contracts · DeFi · NFTs · DAOs · on-chain games · cross-chain bridges · automation.
-🚀 &nbsp;Lead dev owning products end to end — from on-chain program to backend API to frontend UI.
+🤖 &nbsp;Building **AI full-stack** products — LLM chat & inference, AI assistants, agentic **MCP** tooling.\
+🧩 &nbsp;Smart contracts · DeFi · NFTs · DAOs · on-chain games · cross-chain bridges · automation.\
+🚀 &nbsp;Lead dev owning products end to end — from on-chain program to backend API to frontend UI.\
 
 <div align="center">
   <a href="https://www.linkedin.com/in/reza-r-3020b4b8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
